@@ -4,4 +4,4 @@ This repository contains model scripts for estimating DDF and PMP across multi-s
 
 To run timeseries_extractor, ensure to have Google Earth Engine account and install necesary gee packages.
 
-Modeling script require necesary packages and libaries pre-installed.
+Modeling script require necesary packages and libraries pre-installed before executing.
